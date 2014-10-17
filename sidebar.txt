@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nxg:home|Door43 (nxg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nxg|d43-nxg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nxg/archive/master.zip|d43-nxg.zip]]
+
+**Recent Changes**
+{{changes>ns = nxg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nxg|Ethnologue data]]
+
